@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\joel\documents\classes\ai\project1\geneticalgorithm\geneticalgorithm\population.h(594): warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+  GeneticAlgorithm.vcxproj -> C:\Users\Joel\Documents\Classes\AI\Project1\GeneticAlgorithm\Debug\GeneticAlgorithm.exe

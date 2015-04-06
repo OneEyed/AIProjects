@@ -1,0 +1,27 @@
+﻿  main.cpp
+c:\program files (x86)\microsoft visual studio 12.0\vc\include\xutility(521): error C2664: 'bool MinHeapCompartor::operator ()(std::string,std::string)' : cannot convert argument 1 from 'char' to 'std::string'
+          No constructor could take the source type, or constructor overload resolution was ambiguous
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\algorithm(2288) : see reference to function template instantiation 'bool std::_Debug_lt_pred<_Pr,char&,char&>(_Pr,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t)' being compiled
+          with
+          [
+              _Pr=MinHeapCompartor
+  ,            _Ty1=char &
+  ,            _Ty2=char &
+          ]
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\algorithm(2348) : see reference to function template instantiation 'void std::_Debug_heap<char*,_Pr>(_RanIt,_RanIt,_Pr)' being compiled
+          with
+          [
+              _Pr=MinHeapCompartor
+  ,            _RanIt=char *
+          ]
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\queue(419) : see reference to function template instantiation 'void std::push_heap<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char>>>,_Pr>(_RanIt,_RanIt,_Pr)' being compiled
+          with
+          [
+              _Pr=MinHeapCompartor
+  ,            _RanIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<char>>>
+          ]
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\queue(417) : while compiling class template member function 'void std::priority_queue<char,std::vector<char,std::allocator<char>>,MinHeapCompartor>::push(const char &)'
+          c:\users\joel\documents\classes\ai\project2\codeeval_stringpermutations\codeeval_stringpermutations\main.cpp(116) : see reference to function template instantiation 'void std::priority_queue<char,std::vector<char,std::allocator<char>>,MinHeapCompartor>::push(const char &)' being compiled
+          c:\users\joel\documents\classes\ai\project2\codeeval_stringpermutations\codeeval_stringpermutations\main.cpp(110) : see reference to class template instantiation 'std::priority_queue<char,std::vector<char,std::allocator<char>>,MinHeapCompartor>' being compiled
+c:\program files (x86)\microsoft visual studio 12.0\vc\include\xutility(523): error C2664: 'bool MinHeapCompartor::operator ()(std::string,std::string)' : cannot convert argument 1 from 'char' to 'std::string'
+          No constructor could take the source type, or constructor overload resolution was ambiguous

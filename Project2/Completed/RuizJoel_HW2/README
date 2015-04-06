@@ -1,0 +1,10 @@
+How to Compile
+1) Open terminal to project folder
+2) Enter command: g++ main.cpp -o astar
+
+How to Test
+1) Run program with command: ./astar
+
+Output
+1) An output file called "output.txt" will be generated to the current directory.
+2) The same output will also be generated to the console after program is run.

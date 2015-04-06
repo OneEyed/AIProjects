@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\joel\documents\classes\ai\project2\astar\astar\parser.h(89): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\joel\documents\classes\ai\project2\astar\astar\astarheuristics.h(52): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+  Generating code
+  Finished generating code
+  AStar.vcxproj -> C:\Users\Joel\Documents\Classes\AI\Project2\AStar\x64\Release\AStar.exe

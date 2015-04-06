@@ -1,0 +1,107 @@
+
+==========================================================================
+Results -- class AStarHeuristicFirst
+
+Searches for cheapest distance.
+==========================================================================
+#   Dist    g(x)    h(x)    f(x)    City                
+--------------------------------------------------------------------------
+1   0       0       1250    1250    Blue Mountains
+2   250     250     1025    1275    Lake Evendim
+3   85      335     925     1260    Fornost 
+4   375     710     580     1290    Rivendell
+5   60      770     550     1320    Caradhras
+6   70      840     450     1290    Carrock 
+7   240     1080    175     1255    Esgaroth
+8   175     1255    0       1255    Iron Hills
+
+
+==========================================================================
+Results -- class AStarHeuristicSecond
+
+Searches for cheapest distance.
+==========================================================================
+#   Dist    g(x)    h(x)    f(x)    City                
+--------------------------------------------------------------------------
+1   0       0       1250    1250    Blue Mountains
+2   250     250     1025    1275    Lake Evendim
+3   85      335     925     1260    Fornost 
+4   375     710     580     1290    Rivendell
+5   60      770     550     1320    Caradhras
+6   70      840     450     1290    Carrock 
+7   240     1080    175     1255    Esgaroth
+8   175     1255    0       1255    Iron Hills
+
+
+==========================================================================
+Results -- class AStarHeuristicThird
+
+Searches for cheapest distance, then uses the compound interest formula on (distance / miles per day) with the quality and risk factors as interest rates between 0% - 10%.
+==========================================================================
+#   Dist    g(x)    h(x)    f(x)    City                
+--------------------------------------------------------------------------
+1   0       0       1250    1250    Blue Mountains
+2   225     233     1150    1383    White Towers
+3   40      273     1075    1348    Michel Delving
+4   80      353     1000    1353    Brandy Hall
+5   50      404     900     1304    Bree    
+6   100     513     825     1338    Weathertop
+7   230     766     580     1346    Rivendell
+8   60      837     550     1387    Caradhras
+9   70      923     450     1373    Carrock 
+10  240     1230    175     1405    Esgaroth
+11  175     1409    0       1409    Iron Hills
+
+
+==========================================================================
+Results -- class AStarHeuristicFirst
+
+Searches for cheapest distance.
+==========================================================================
+#   Dist    g(x)    h(x)    f(x)    City                
+--------------------------------------------------------------------------
+1   0       0       1250    1250    Blue Mountains
+2   250     250     1025    1275    Lake Evendim
+3   85      335     925     1260    Fornost 
+4   375     710     580     1290    Rivendell
+5   60      770     550     1320    Caradhras
+6   70      840     450     1290    Carrock 
+7   240     1080    175     1255    Esgaroth
+8   175     1255    0       1255    Iron Hills
+
+
+==========================================================================
+Results -- class AStarHeuristicSecond
+
+Searches for cheapest distance.
+==========================================================================
+#   Dist    g(x)    h(x)    f(x)    City                
+--------------------------------------------------------------------------
+1   0       0       1250    1250    Blue Mountains
+2   250     250     1025    1275    Lake Evendim
+3   85      335     925     1260    Fornost 
+4   375     710     580     1290    Rivendell
+5   60      770     550     1320    Caradhras
+6   70      840     450     1290    Carrock 
+7   240     1080    175     1255    Esgaroth
+8   175     1255    0       1255    Iron Hills
+
+
+==========================================================================
+Results -- class AStarHeuristicThird
+
+Searches for cheapest distance, then uses the compound interest formula on (distance / miles per day) with the quality and risk factors as interest rates between 0% - 10%.
+==========================================================================
+#   Dist    g(x)    h(x)    f(x)    City                
+--------------------------------------------------------------------------
+1   0       0       1250    1250    Blue Mountains
+2   225     233     1150    1383    White Towers
+3   40      273     1075    1348    Michel Delving
+4   80      353     1000    1353    Brandy Hall
+5   50      404     900     1304    Bree    
+6   100     513     825     1338    Weathertop
+7   230     766     580     1346    Rivendell
+8   60      837     550     1387    Caradhras
+9   70      923     450     1373    Carrock 
+10  240     1230    175     1405    Esgaroth
+11  175     1409    0       1409    Iron Hills
